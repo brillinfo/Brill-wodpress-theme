@@ -1,0 +1,2 @@
+# Brill-wodpress-theme
+Brill theme is clean, blog-focused, and designed for clarity. Brill’s simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.This is free wordpress theme, with all features like carousel(slider) at home page, service section and recent post. theme also displays socal media links at footer and header. 
